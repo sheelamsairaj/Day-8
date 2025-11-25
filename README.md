@@ -6,9 +6,9 @@ The objective of this task was to gain hands-on experience with a Virtual Privat
 
 ## 🛠️ Tools Used
 
-* **Free VPN Client:** [State which one you used: e.g., ProtonVPN Free Tier]
-* **IP Verification Service:** [e.g., whatismyipaddress.com]
-* **Operating System:** [e.g., Windows 11 / macOS Sonoma]
+* **Free VPN Client:** [windscribe]
+* **IP Verification Service:** [where is my ip]
+* **Operating System:** [macos]
 
 ## 📋 Deliverables
 
