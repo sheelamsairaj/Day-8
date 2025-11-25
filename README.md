@@ -37,8 +37,6 @@ The following files are included in this repository:
 
 ## 📊 Summary of VPN Benefits and Limitations (For your Report)
 
-*(This section should contain the detailed summary you write for step 8 of the task, focusing on the research you conducted. Below is a concise placeholder.)*
-
 **Benefits:**
 * **Data Encryption:** Protects data from ISPs, hackers, and surveillance using standards like AES-256.
 * **Privacy/Anonymity:** Hides the user's real IP address and location.
